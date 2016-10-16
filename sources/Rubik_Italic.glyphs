@@ -1,5 +1,5 @@
 {
-.appVersion = "924";
+.appVersion = "926";
 classes = (
 {
 code = "zero one two three four five six seven eight nine parenleft parenright";
@@ -49,6 +49,7 @@ value = 1;
 date = "2016-09-09 18:30:11 +0000";
 designer = "Hubert and Fischer";
 designerURL = "http://www.hubertfischer.com";
+disablesAutomaticAlignment = 1;
 familyName = Rubik;
 featurePrefixes = (
 {
@@ -80598,7 +80599,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesAutomaticAlignment = 1;
 instances = (
 {
 interpolationWeight = 200;
@@ -80617,7 +80617,6 @@ UUID0 = 0.833333;
 "A0D8A2CD-35BA-4362-A7DB-C0E331BFD9A3" = 0.166667;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
@@ -80639,7 +80638,6 @@ UUID0 = 0.333333;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 },
