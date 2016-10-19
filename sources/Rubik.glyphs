@@ -1,5 +1,5 @@
 {
-.appVersion = "924";
+.appVersion = "926";
 classes = (
 {
 code = "zero one two three four five six seven eight nine parenleft parenright";
@@ -53,6 +53,7 @@ value = 1;
 date = "2016-09-09 15:22:33 +0000";
 designer = "Hubert and Fischer";
 designerURL = "http://www.hubertfischer.com";
+disablesNiceNames = 1;
 familyName = Rubik;
 featurePrefixes = (
 {
@@ -121,11 +122,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 945;
+value = 935;
 },
 {
 name = typoDescender;
-value = -307;
+value = -250;
 },
 {
 name = typoLineGap;
@@ -133,11 +134,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 945;
+value = 935;
 },
 {
 name = hheaDescender;
-value = -307;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -207,11 +208,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 945;
+value = 935;
 },
 {
 name = typoDescender;
-value = -307;
+value = -250;
 },
 {
 name = typoLineGap;
@@ -219,11 +220,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 945;
+value = 935;
 },
 {
 name = hheaDescender;
-value = -307;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -91304,7 +91305,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 interpolationWeight = 200;
